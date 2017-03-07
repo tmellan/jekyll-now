@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Research Associate in theory and simulation of materials at Imperial College. 
+Research Associate in Theory and Simulation of Materials at Imperial College. 
 
 ### More Information
 
+Understanding the material world one Ångstrom at a time.
 
 ### Contact me
 
