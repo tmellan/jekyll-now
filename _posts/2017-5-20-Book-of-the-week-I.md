@@ -5,7 +5,7 @@ title: Book of the week 0.01 - Entropy, Order Parameters and Complexity
 
 This week, while reading around phonons and Goldstone bosons, I followed a link to Setha's stat mech book, which happily combines both in a single paragraph. The text, <em>Entropy, Order Parameters and Complexity</em>, can be downloaded (for free!) from his website - something I liked so much I ordered a copy of the real thing.
 
-<p><img src="./images/sethna-drunkard.png" style="height:400px;" /></p>
+<p><img src="../images/sethna-drunkard.png" style="height:400px;" /></p>
 
 From an hour or two of focused dives and a bit of skimming, the book is great. It has a casual style of writing that reads quick and easy on highly interesting subject matter.
 
